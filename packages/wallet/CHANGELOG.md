@@ -1,5 +1,15 @@
 # @status-im/wallet
 
+## 0.1.2
+
+### Patch Changes
+
+- e0179d3: Update wallet package with token metadata improvements
+- 06ceddc: Fix React Server Components CVE vulnerabilities
+- Updated dependencies [ff8dd31]
+- Updated dependencies [be3d8dc]
+  - @status-im/components@1.2.0
+
 ## 0.1.1
 
 ### Patch Changes

@@ -1,5 +1,17 @@
 # wallet
 
+## 0.1.2
+
+### Patch Changes
+
+- e0179d3: Update wallet package with token metadata improvements
+- Updated dependencies [ff8dd31]
+- Updated dependencies [e0179d3]
+- Updated dependencies [be3d8dc]
+- Updated dependencies [06ceddc]
+  - @status-im/components@1.2.0
+  - @status-im/wallet@0.1.2
+
 ## 0.1.1
 
 ### Patch Changes
